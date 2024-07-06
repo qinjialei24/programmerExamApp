@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+**/node_modules
+/.idea/.gitignore
+/.idea/material_theme_project_new.xml
+/.idea/modules.xml
+/.idea/ProgrammerExamApp.iml
+/.idea/vcs.xml
