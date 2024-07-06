@@ -1,0 +1,3 @@
+{
+  "extends": "@programmerExamApp/config/tsconfig.lib.json"
+}
